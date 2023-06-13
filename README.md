@@ -5,18 +5,18 @@ Due to technology advancement, the usage of electronic devices has increased dra
 </p>
 
 ---
-<h3>JasaIn App make With Kotlin</h3>
+<h3>📱 JasaIn App make With Kotlin</h3>
 <p style="display:flex">
 <img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/35a43687-fcdb-4779-97d4-638821a2d28a.jpeg"> &nbsp
 <img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/125f7436-c67a-4698-b1a5-0fcc5205c34f.jpeg"> &nbsp
 </p>
 
 ---
-<h3>Using Cloud Servers</h3>
+<h3>☁️ Using Cloud Servers</h3>
 
 ---
 
-<h3>JasaIn-APIs</h3>
+<h3>🔥 JasaIn-APIs</h3>
 <p>
 &#8811; link APIs Products    : https://github.com/Icappucino/JasaIn-APIs-Produk.git </br>
 &#8811; link APIs Categories  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
@@ -25,3 +25,5 @@ Due to technology advancement, the usage of electronic devices has increased dra
 </p>
 
 ---
+
+<h3> Our Community </h3>
