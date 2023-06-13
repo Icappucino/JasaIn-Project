@@ -18,10 +18,10 @@ Due to technology advancement, the usage of electronic devices has increased dra
 
 <h3>🔥 JasaIn-APIs</h3>
 <p>
-&#8811; link APIs Products    : https://github.com/Icappucino/JasaIn-APIs-Produk.git </br>
-&#8811; link APIs Categories  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
-&#8811; link APIs Recommendations  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
-&#8811; link APIs Orders  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
+&#8811; APIs Products    : https://github.com/Icappucino/JasaIn-APIs-Produk.git </br>
+&#8811; APIs Categories  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
+&#8811; APIs Recommendations  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
+&#8811; APIs Orders  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
 </p>
 
 ---
