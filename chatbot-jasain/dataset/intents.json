@@ -1,0 +1,561 @@
+{
+    "intents": [
+        {
+            "tag": "salam",
+            "patterns": [
+                "Hai",
+                "Halo",
+                "Assalamualaikum",
+                "Hei",
+                "Selamat Pagi",
+                "Selamat Siang",
+                "Selamat Sore",
+                "Selamat Malam",
+                "Pagi",
+                "Siang",
+                "Sore",
+                "Malam",
+                "Malem",
+                "Hallo Admin",
+                "Halo Admin",
+                "Hai Admin",
+		"Halo Chatbot",
+		"Ui",
+		"Uyy",
+		"Halo min"
+            ],
+            "responses": [
+                "Halo, Selamat datang di JasaIn Chatbot!. Jika kamu mempunyai kendala, silahkan deskripsikan kendalamu ya!"
+            ]
+        },
+        {
+            "tag": "penutup",
+            "patterns": [
+                "Terimakasih",
+                "Makasih",
+                "Thank You",
+                "Makasih Banyak",
+                "Terimakasih Banyak",
+                "Terimaksih atas Bantuannya",
+                "Makasih atas Bantuannya",
+                "Oke Makasih",
+                "Oke Terimakasih",
+                "Oke terimakasih atas bantuannya",
+		"Terima kasih",
+		"Trima kasih",
+		"Ty",
+		"Thx",
+		"Tysm",
+		"Makasi",
+		"Tenkyu",
+		"Thanks",
+		"Bye"
+            ],
+            "responses": [
+                "Sama-sama, Senang Bisa membantu!, Terimakasih telah menghubungi kami"
+            ]
+        },
+        {
+            "tag": "hp_lcd",
+            "patterns": [
+                "Saya punya kendala, LCD hp saya kadang-kadang tidak bisa dipencet",
+                "Hp saya tidak bisa ditekan",
+                "Layar saya tidak bisa dipencet",
+                "layar Hp sya mati tetapi masih ada suara notifikasi",
+                "Layar Hp saya tidak bisa disentuh",
+                "Layar Hp gak bisa disentuh",
+                "Touchscreen hp saya tidak berfungsi",
+		"Layar Hp mati",
+		"Layar Hp hitam"
+            ],
+            "responses": [
+                "Handphone kamu harus ganti LCD, jangan lupa sesuaikan mereknya ya"
+            ]
+        },
+        {
+            "tag": "hp_iccharger",
+            "patterns": [
+                "Hp saya tidak bisa di cas",
+                "Hp saya tidak bisa di charger",
+                "Kenapa ya hp saya tidak bisa di cas",
+                "Kenapa ya hp saya tidak bisa di charger",
+                "Saya sudah cas hp saya tapi persentase baterainya tidak bertambah",
+                "Gak bisa di cas",
+                "Ga bisa di cas",
+                "Gak bisa di charger",
+                "Saat di cas selalu putus-putus",
+                "Saat di cas hp saya putus nyambung",
+                "Kalau di cas kenapa ya hp saya putus-putus",
+                "Hp saya ridak dapat mengisi daya",
+                "Ponsel saya tidak bisa dicas",
+                "Ponsel saya tidak bisa diisi daya",
+                "Ponsel saya tidak mau mengisi daya",
+                "Ponsel saya tidak mau ngecas"
+            ],
+            "responses": [
+                "IC charger hp kamu rusak. Penyebabnya bisa ditimbulkan oleh berbagai macam, salah satunya adalah yang paling sering adalah menggunakan hp bermain sambil di cas,terutama main game online, chatting, download, streaming youtube dan aktivitas lain yang membutuhkan daya baterai besar. Hal ini akan membebankan IC Power sehingga harus bekerja secara terus menerus baik saat melakukan pengisian baterai dan saat dimainkan."
+            ]
+        },
+        {
+            "tag": "hp_bootlop",
+            "patterns": [
+                "Saya punya kendala,hp saya tidak bisa menyala hanya stuck di logo",
+                "Hp saya mati dan saat dinyalakan tidak bisa menyala hanya muncul logo saja",
+                "Ponsel saya stuck di logo tidak mau menyala",
+                "Hp saya gak mau nyala cuma stuck di logo",
+                "Layar hp saat dinyalakan hanya ada gambar merek hp saja",
+		"Hp saya mati lalu nyala lagi"
+            ],
+            "responses": [
+                "Handphone kamu mengalami bootlop, segera hubungi tukang servis andalanmu ya!"
+            ]
+        },
+        {
+            "tag": "hp_baterai",
+            "patterns": [
+                "Saat hp saya dicas baterai tidak bertambah",
+                "baterai tidak bertambah saat dicas",
+                "Hp saya bisa di cas akan tetapi baterai tidak bertambah",
+                "Saat di cas, baterai hp saya tidak bertambah",
+                "Saat dicas baterai hp saya malah berkurang",
+                "Saat dicas baterai ponsel saya tidak bertambah",
+                "Saat di cas persentase baterai ponsel saya malah berkurang",
+                "Casan nyambung tapi baterai tidak bertambah",
+                "Casan nyambung tapi persenan batre gak nambah"
+            ],
+            "responses": [
+                "Handphone kamu harus ganti Baterai, jangan lupa sesuaikan mereknya ya"
+            ]
+        },
+        {
+            "tag": "hp_overheat",
+            "patterns": [
+                "Saya punya kendala,hp saya gampang panas",
+                "Hp saya mudah panas",
+                "hp saya sering panas",
+				"Hp saya kepanasan",
+				"Hp panas",
+				"Hp hangat"
+            ],
+            "responses": [
+                "Handphone kamu mengalami overheat, jangan sering sering menggunakan hp sambil di charge. Coba kurangi kecerahan dan matikan aplikasi yang berjalan di belakang. Jika masih sering mengalami overheat segera konsultasikan dengan rangers pilihan anda ya!"
+            ]
+        },
+        {
+            "tag": "hp_wifi",
+            "patterns": [
+                "Saya punya kendala,wifi hp saya tidak bisa menyala",
+                "Wifi hp saya tidak bisa dinyalakan",
+                "Ponsel saya tidak bisa menyalakan wifi",
+                "Wifi Hp saya gak mau nyala",
+                "Wifi ponsel saya tidak bisa dinyalakan",
+                "Koneksi wifi sering mati sendiri",
+                "Wifi hp saya sering mati sendiri",
+                "Koneksi wifi di hp saya lambat padahal di hp teman normal",
+                "Koneksi Wifi hp saya sering mati sendiri",
+                "Ponsel saya wifinya sering mati sendiri",
+                "Koneksi Wifi ponsel saya tiba tiba terputus sendiri"
+            ],
+            "responses": [
+                "Handphone kamu mengalami kerusakan di bagian IC Wifi, segera hubungi tukang rangers andalanmu ya!"
+            ]
+        },
+        {
+            "tag": "hp_bluetooth",
+            "patterns": [
+                "Saya punya kendala,bluetooth hp saya tidak bisa menyala",
+                "Bluetooth Hp saya gak bisa nyala",
+                "Ponsel saya tidak bisa menyalakan bluetooth",
+                "Blutut Hp saya gak bisa dinyalakan",
+                "Bluetooth Ponsel saya tidak bisa dinyalakan",
+                "Blutut HP gue gk bisa nyala",
+                "HP gua gak bisa nyalain bluetooth",
+                "Hp saya gak bisa nyalain bluetooth",
+                "Bluetooth hpku gak bisa dinyalain",
+                "Hp saya bluetoothnya gk bisa nyala"
+            ],
+            "responses": [
+                "Handphone kamu mengalami kerusakan di bagian IC bluetoothnya ya, segera hubungi rangers andalanmu ya!"
+            ]
+        },
+        {
+            "tag": "ac_arti",
+            "patterns": [
+                "Apa itu AC?",
+                "AC artinya apa?",
+                "AC singkatan dari?",
+                "AC adalah",
+                "AC apa",
+                "AC kepanjangannya apa",
+                "AC",
+                "Definisi AC",
+                "Pengertian AC",
+                "Apa AC"
+            ],
+            "responses": [
+                "AC atau Air Conditioner adalah alat yang berfungsi untuk menurunkan suhu atau temperature ruanganmu."
+            ]
+        },
+        {
+            "tag": "ac_merek",
+            "patterns": [
+                "Merek AC ada apa saja?",
+                "Apa saja merek AC?",
+                "Merek AC",
+                "Merek AC yang bagus?",
+                "AC apa yang bagus?",
+                "Apa saja merek AC yang bagus?",
+                "Merek",
+                "AC Merek"
+            ],
+            "responses": [
+                "Menurut Tokopedia, merek AC yang terbaik antara lain adalah Daikin, Sharp, Panasonic, Gree, LG, Samsung, AUX, Changhong, Mitshubishi, Denpoo, Midea, Akari, Polytron."
+            ]
+        },
+        {
+            "tag": "ac_rusak",
+            "patterns": [
+                "AC saya rusak",
+                "Mengapa AC saya rusak?",
+                "AC rusak",
+                "Apa saja masalah AC?",
+                "AC saya bermasalah",
+                "AC bermasalah",
+                "Masalah pada AC",
+                "AC saya perlu diperbaiki",
+                "Perbaikan",
+                "Perbaikan AC",
+                "AC diperbaiki",
+                "Kerusakan AC"
+            ],
+            "responses": [
+                "Kerusakan pada AC dapat disebabkan oleh hal antara lain, part yang tidak dibersihkan, freon habis, bocor, kompresor rusak."
+            ]
+        },
+        {
+            "tag": "ac_kotor",
+            "patterns": [
+                "AC kotor",
+                "AC saya kotor",
+                "Mengapa AC saya kotor?",
+                "AC saya tidak bersih",
+                "AC perlu dibersihkan",
+                "AC tidak bersih",
+                "AC bau"
+            ],
+            "responses": [
+                "AC yang belum dibersihkan dapat menyebabkan masalah seperti udara tidak dingin dan segar, segera hubungi tukang rangers andalanmu ya!"
+            ]
+        },
+        {
+            "tag": "ac_freon",
+            "patterns": [
+                "Ganti freon",
+                "AC saya butuh freon",
+                "Freon AC saya habis",
+                "Apa itu freon?",
+                "Freon AC",
+                "Freon"
+            ],
+            "responses": [
+                "Freon membuat udara AC dingin, apabila AC kekurangan freon maka AC tidak akan bekerja dengan optimal, segera hubungi tukang rangers andalanmu untuk mengganti Freon ya!"
+            ]
+        },
+		{
+            "tag": "ac_kompresor",
+            "patterns": [
+                "Kompresor",
+                "AC saya kompresornya rusak",
+                "Kompresor AC saya rusak",
+                "Unit luar AC saya rusak",
+                "Unit luar",
+                "Unit outdoor"
+            ],
+            "responses": [
+                "Kerusakan pada bagian kompresor yang menyebabkan AC tidak bisa dingin. Kerusakan pada penunjang kompresor seperti kapasitor, kerusakan pada kipas pembuang panas, serta kerusakan relay penyalur listrik ke outdoor unit. Hubungi tukang rangers andalanmu ya!"
+            ]
+        },
+        {
+            "tag": "ac_bocor",
+            "patterns": [
+                "AC bocor",
+                "AC saya bocor",
+                "AC saya bocor air",
+                "Ada air dari AC saya",
+                "AC berair",
+                "Air AC",
+                "Air menetes dari AC",
+                "Air jatuh"
+            ],
+            "responses": [
+                "Kebocoran air pada AC disebabkan oleh rusaknya pipa atau tabung penampung. Hubungi tukang rangers andalanmu ya!"
+            ]
+        },
+        {
+            "tag": "create_account",
+            "patterns": [
+                "Aku perlu membuat akun baru",
+                "Bagaimana cara membuka akun baru?",
+                "Aku ingin membuat akun",
+                "Bisakah kamu membuat akun untukku?",
+                "Bagaimana cara membuka akun baru?"
+            ],
+            "responses": [
+                "Kamu bisa dengan mudah membuat akun baru dengan klik profile dibagian bawah, kemudian pencet button sign up.",
+                "Pergi saja ke bagian profile dan ikuti klik button sign up."
+            ]
+        },
+        {
+            "tag": "complaint",
+            "patterns": [
+                "Ada keluhan",
+                "Aku ingin mengajukan keluhan",
+                "Ada keluhan tentang layanan",
+                "Laptop saya rusak min",
+                "Handphone saya rusak min",
+                "HP saya rusak min",
+                "Ac saya rusak min"
+            ],
+            "responses": [
+                "Mohon berikan keluhanmu agar kami bisa membantumu.",
+                "Silakan sebutkan keluhanmu, kami akan coba membantumu."
+            ]
+        },
+        {
+            "tag": "laptop_overheating",
+            "patterns": [
+                "Laptop panas",
+                "Laptop terlalu panas",
+                "Overheating",
+                "Laptop suka panas",
+                "Laptopnya Overheat",
+                "Laptop cepat panas",
+                "Laptop sering mati karena panas",
+                "Suhu laptop terlalu tinggi",
+                "Laptop overheat setelah digunakan beberapa lama",
+		"Laptopku hangat",
+		"Laptop hangat"
+            ],
+            "responses": [
+                "Masalah overheating pada laptop bisa disebabkan oleh kipas yang kotor atau pendingin yang tidak efektif. Pastikan laptop Anda memiliki ventilasi yang baik dan coba bersihkan kipas dari debu secara berkala."
+            ]
+        },
+        {
+            "tag": "laptop_keyboard_not_working",
+            "patterns": [
+                "Keyboard tidak berfungsi",
+                "Tombol keyboard tidak merespons",
+                "Keyboard laptop saya rusak",
+                "Keyboardnya rusak",
+                "Tombolnya Rusak"
+            ],
+            "responses": [
+                "Jika keyboard laptop tidak berfungsi, coba periksa apakah ada kotoran atau cairan yang masuk ke dalamnya. Jika tidak, kemungkinan ada masalah dengan driver keyboard atau perlu penggantian keyboard."
+            ]
+        },
+        {
+            "tag": "laptop_blue_screen",
+            "patterns": [
+                "Layar laptop biru",
+                "Blue screen",
+                "Ini layar laptopnya biru kenapa ya?",
+                "Layar laptop tiba-tiba berubah menjadi biru",
+                "Layar laptop error dengan tampilan warna biru",
+                "Layar laptop blue screen setelah booting",
+                "Layar laptop sering muncul blue screen saat digunakan"
+            ],
+            "responses": [
+                "Jika Anda mengalami blue screen of death (BSOD), ini bisa menjadi indikasi adanya masalah serius pada sistem operasi atau driver. Perbarui driver dan pastikan laptop Anda terlindungi dengan pembaruan keamanan terbaru."
+            ]
+        },
+        {
+            "tag": "laptop_battery_issues",
+            "patterns": [
+                "Baterai laptop tidak bertahan lama",
+                "Baterai tidak terisi",
+                "Baterai bocor",
+                "batre bocor",
+                "Ini baterainya bocor kenapa ya?",
+                "Baterai laptop cepat habis",
+                "Baterai laptop tidak bisa digunakan lama",
+                "Baterai laptop tidak mengisi daya",
+                "Baterai laptop menurun kualitasnya",
+                "Baterai laptop bengkak"
+            ],
+            "responses": [
+                "Jika baterai laptop tidak bertahan lama atau tidak terisi dengan baik, coba kalibrasi baterai atau pertimbangkan untuk mengganti baterai jika sudah tua. Juga pastikan pengaturan daya laptop Anda sudah optimal."
+            ]
+        },
+        {
+            "tag": "laptop_screen_problems",
+            "patterns": [
+                "Layar laptop tidak menyala",
+                "Layar laptop blank",
+                "Layar laptop mati total",
+                "Layar laptop tidak menampilkan gambar",
+                "Layar laptop gelap",
+                "Layar laptop tidak responsif",
+                "Layar laptop blank setelah booting"
+            ],
+            "responses": [
+                "Jika layar laptop tidak menyala atau tetap hitam, periksa kabel konektor layar dan pastikan tidak ada masalah dengan inverter backlight. Jika masih tidak berhasil, ada kemungkinan kerusakan pada panel layar dan perlu diperbaiki oleh teknisi."
+            ]
+        },
+        {
+            "tag": "laptop_wifi_issues",
+            "patterns": [
+                "Tidak bisa terhubung ke Wi-Fi",
+                "Masalah koneksi Wi-Fi",
+                "Wifinya engga bisa",
+                "Wifinya gak konek",
+                "Tidak bisa terhubung ke jaringan Wi-Fi",
+                "Wi-Fi tidak berfungsi",
+                "Tidak ada sinyal Wi-Fi pada laptop",
+                "Laptop tidak dapat menemukan jaringan Wi-Fi",
+                "Sulit terhubung ke Wi-Fi pada laptop",
+		"Laptop saya gak ada internet"
+            ],
+            "responses": [
+                "Jika Anda mengalami masalah koneksi Wi-Fi, pastikan Anda telah memasukkan password yang benar dan jarak antara laptop dan router tidak terlalu jauh. Jika masih tidak terhubung, coba restart router dan periksa pengaturan jaringan pada laptop."
+            ]
+        },
+        {
+            "tag": "laptop_hard_drive_failure",
+            "patterns": [
+                "Hard drive rusak",
+                "Kerusakan hard drive",
+                "HDD rusak min",
+                "Hard Disknya rusak min",
+                "HDD error",
+                "Laptop tidak bisa mengakses hard drive",
+                "Hard drive tidak terdeteksi oleh laptop",
+                "Laptop error setelah mengakses hard drive",
+                "Laptop mengalami kerusakan pada hard drive"
+            ],
+            "responses": [
+                "Jika hard drive laptop mengalami kerusakan atau kegagalan, Anda mungkin perlu mengganti hard drive tersebut. Pastikan Anda memiliki cadangan data yang penting dan konsultasikan dengan teknisi untuk melakukan penggantian hard drive yang tepat."
+            ]
+        },
+        {
+            "tag": "laptop_usb_port_issues",
+            "patterns": [
+                "Port USB rusak",
+                "Port USB tidak berfungsi",
+                "Ini USB gak bisa konek min",
+                "USB error",
+                "Port USB tidak dapat mendeteksi perangkat",
+                "USB tidak bisa digunakan pada laptop",
+                "Port USB tidak responsif",
+                "Tidak bisa menghubungkan perangkat ke port USB",
+		"Colok ke USB laptop tidak bisa"
+            ],
+            "responses": [
+                "Jika port USB pada laptop rusak atau tidak berfungsi, periksa apakah ada kotoran atau kerusakan fisik di dalamnya. Jika perlu, Anda dapat mencoba membersihkan port atau menggunakan port USB tambahan seperti USB hub."
+            ]
+        },
+        {
+            "tag": "laptop_audio_problems",
+            "patterns": [
+                "Masalah suara laptop",
+                "Tidak ada suara dari laptop",
+                "Speaker laptonya gak ada suara",
+                "Speaker mati",
+                "Tidak ada suara keluar dari speaker laptop",
+                "Suara laptop terdengar terdistorsi",
+                "Laptop tidak mengeluarkan suara sama sekali",
+                "Mengapa speaker laptop tidak berfungsi?"
+            ],
+            "responses": [
+                "Jika laptop tidak mengeluarkan suara atau mengalami suara yang terdistorsi, pastikan pengaturan suara di laptop sudah benar dan driver audio telah diinstal dengan benar. Jika masalah persisten, Anda mungkin perlu mengganti speaker laptop."
+            ]
+        },
+        {
+            "tag": "laptop_slow_performance",
+            "patterns": [
+                "Laptop lemot",
+                "Kinerja laptop lambat",
+                "Laptop nge lag",
+                "laptop lag",
+                "Laptop menjadi sangat lambat",
+                "Kinerja laptop menurun drastis",
+                "Laptop sering mengalami lagging",
+                "Bagaimana cara meningkatkan performa laptop?"
+            ],
+            "responses": [
+                "Jika laptop mengalami kinerja yang lambat, coba periksa penggunaan sumber daya seperti CPU dan RAM. Pastikan tidak ada program yang membebani laptop secara berlebihan. Anda juga dapat membersihkan file dan program yang tidak perlu atau mempertimbangkan peningkatan komponen hardware."
+            ]
+        },
+        {
+            "tag": "laptop_virus_infection",
+            "patterns": [
+                "Laptop terinfeksi virus",
+                "Virus di laptop",
+                "Laptop kenak virus",
+                "Bagaimana cara menghapus virus dari laptop?",
+                "Laptop terinfeksi malware",
+                "Aplikasi laptop terkena serangan virus"
+            ],
+            "responses": [
+                "Jika laptop terinfeksi virus, pastikan Anda memiliki program antivirus yang terbaru dan lakukan pemindaian penuh. Hapus atau karantina file yang terdeteksi sebagai ancaman. Jika masalah persisten, konsultasikan dengan teknisi komputer."
+            ]
+        },
+        {
+            "tag": "laptop_screen_flickering",
+            "patterns": [
+                "Layar laptop berkedip",
+                "Layar laptop berkedip-kedip",
+                "Layar laptop berkedip terus",
+                "Layar laptop berkedip setelah booting",
+                "Layar laptop sering berkedip",
+                "Layar laptop berkedip setelah pemakaian beberapa saat"
+            ],
+            "responses": [
+                "Jika layar laptop berkedip atau berkedip-kedip, periksa apakah driver kartu grafis sudah terbaru. Juga, pastikan tidak ada masalah dengan kabel penghubung atau layar yang rusak. Jika diperlukan, konsultasikan dengan teknisi untuk perbaikan lebih lanjut."
+            ]
+        },
+        {
+            "tag": "laptop_charging_issues",
+            "patterns": [
+                "Laptop tidak bisa diisi daya",
+                "Masalah pengisian daya laptop",
+                "Laptonya gabisa ngecas",
+                "casannya error",
+                "Baterai laptop tidak terisi saat dihubungkan ke charger",
+                "Laptop tidak mendapatkan daya saat dihubungkan ke adaptor",
+                "Tidak ada indikator pengisian daya pada laptop",
+                "Mengapa laptop saya tidak bisa dicharge?"
+            ],
+            "responses": [
+                "Jika laptop tidak bisa diisi daya, periksa kabel pengisi daya dan port charging laptop. Jika mungkin, coba menggunakan kabel dan charger yang berbeda. Jika masalah persisten, kemungkinan ada masalah dengan baterai atau komponen pengisian daya. Konsultasikan dengan teknisi untuk perbaikan lebih lanjut."
+            ]
+        },
+        {
+            "tag": "laptop_driver_errors",
+            "patterns": [
+                "Kesalahan driver",
+                "Driver laptop rusak",
+                "Driver laptop error",
+                "Pesan kesalahan driver muncul saat menghidupkan laptop",
+                "Laptop mengalami masalah setelah menginstal driver baru",
+                "Driver tidak berfungsi setelah pembaruan sistem operasi"
+            ],
+            "responses": [
+                "Jika mengalami kesalahan driver, periksa apakah driver sudah diperbarui ke versi terbaru. Jika masih ada masalah, coba uninstall dan install ulang driver yang bersangkutan. Jika masalah persisten, konsultasikan dengan teknisi komputer."
+            ]
+        },
+        {
+            "tag": "laptop_startup_issues",
+            "patterns": [
+                "Laptop tidak bisa menyala",
+                "Masalah saat startup laptop",
+                "Laptop tidak bisa booting",
+                "Laptop stuck di layar startup",
+                "Laptop tidak bisa masuk ke Windows",
+                "Masalah saat laptop dihidupkan"
+            ],
+            "responses": [
+                "Jika laptop tidak bisa menyala atau mengalami masalah saat startup, coba periksa apakah baterai cukup terisi atau charger terhubung dengan baik. Juga, periksa apakah ada masalah dengan RAM atau hard drive. Jika masalah persisten, konsultasikan dengan teknisi komputer."
+            ]
+        }
+    ]
+}
