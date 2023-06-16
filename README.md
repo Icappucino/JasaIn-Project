@@ -38,7 +38,7 @@ Due to technology advancement, the usage of electronic devices has increased dra
 
 &#8811; APIs `Products`    : https://github.com/Icappucino/JasaIn-APIs-Produk.git </br>
 &#8811; APIs `Categories`  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
-&#8811; APIs `Recommendations`  : https://github.com/TifenSeng/JasasIn-API-Tifen.git </br>
+&#8811; APIs `Service`  : https://github.com/TifenSeng/JasasIn-API-Tifen.git </br>
 &#8811; `Chatbot-JasaIn`  : https://github.com/Icappucino/JasaIn-Project/tree/master/chatbot-jasain </br>
 </p>
 
