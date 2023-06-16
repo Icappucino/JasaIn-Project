@@ -34,10 +34,19 @@ Due to technology advancement, the usage of electronic devices has increased dra
 <img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/216fb5b2-ec5d-4bbf-8aad-cc90d9e06074.jpeg"> &nbsp
 
 ---
+<h3>📱 Library Used in Android Application</h3>
+
+1. [Retrofit](https://square.github.io/retrofit/)
+2. [AutoImageSlideShow](https://developer.android.com/reference/androidx/viewpager/widget/ViewPager)
+3. [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
+4. [Coroutines](https://developer.android.com/kotlin/coroutines)
+5. [Material Components](https://material.io/components?platform=android)
+
+---
 <h3>🔥 JasaIn-APIs</h3>
 
+&#8811; APIs `Private`    : >>> https://github.com/Icappucino/JasaIn-APIs-Store-Info.git >>> https://github.com/Icappucino/JasaIn-APIs-User-Info.git </br>
 &#8811; APIs `Products`    : https://github.com/Icappucino/JasaIn-APIs-Produk.git </br>
-&#8811; APIs `Categories`  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
 &#8811; APIs `Service`  : https://github.com/TifenSeng/JasasIn-API-Tifen.git </br>
 &#8811; `Chatbot-JasaIn`  : https://github.com/Icappucino/JasaIn-Project/tree/master/chatbot-jasain </br>
 </p>
