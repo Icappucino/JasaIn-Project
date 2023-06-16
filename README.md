@@ -13,7 +13,8 @@ Due to technology advancement, the usage of electronic devices has increased dra
 <img height="350em" width="200em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/54e153e0-8129-45d3-806f-7f988004fd7e.jpeg"> &nbsp
 <img height="350em" width="200em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/77d725a4-123a-46cc-982a-3830c200e067.jpeg"> &nbsp
 <img height="350em" width="200em" src="https://github.com/Icappucino/JasaIn-Project/assets/93022957/79f10a61-3d80-403a-81b1-51207f5a33d5.jpeg"> &nbsp
-
+<img height="350em" width="200em" src="https://github.com/SyamsulH/JasaIn-Project/assets/93022957/9211318c-e7c2-4b0f-9036-ead6b5f9857a.jpeg"> &nbsp
+<img height="350em" width="200em" src="https://github.com/SyamsulH/JasaIn-Project/assets/93022957/2d1dcaf6-a272-4947-a813-4ed40faf6f4d.jpeg"> &nbsp
 </p>
 
 
