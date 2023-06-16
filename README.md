@@ -5,10 +5,13 @@ Due to technology advancement, the usage of electronic devices has increased dra
 </p>
 
 ---
-<h3>📱 JasaIn App make With Kotlin </h3>
+<h3>📱 JasaIn App make With Kotlin</h3>
 <p style="display:flex">
-<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/35a43687-fcdb-4779-97d4-638821a2d28a.jpeg"> &nbsp
-<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/125f7436-c67a-4698-b1a5-0fcc5205c34f.jpeg"> &nbsp
+<img height="365em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/35a43687-fcdb-4779-97d4-638821a2d28a.jpeg"> &nbsp
+<img height="365em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/125f7436-c67a-4698-b1a5-0fcc5205c34f.jpeg"> &nbsp
+<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/985a0fbc-5f6e-4870-9364-5313bec73c38.jpeg"> &nbsp
+<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/54e153e0-8129-45d3-806f-7f988004fd7e.jpeg"> &nbsp
+<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/77d725a4-123a-46cc-982a-3830c200e067.jpeg"> &nbsp
 </p>
 
 ---
@@ -18,14 +21,25 @@ Due to technology advancement, the usage of electronic devices has increased dra
 
 ---
 <h3>🖇 ChatBot Development with TensorFlow, NLTK and Google Collab</h3>
-<img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/blob/master/chatbot-jasain/chatbot-screenshot-collab.png"> &nbsp
+
+<h4>Dependencies Machine Learning</h4>
+
+- `python==3.10.12` </br>
+- `tensorflow==2.12.0` </br>
+- `numpy==1.22.4` </br>
+- `ntlk==3.8.1` </br>
+- `pickle==4.0` </br>
+
+<img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/blob/master/chatbot-jasain/chatbot-screenshot-collab.png">
+<img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/216fb5b2-ec5d-4bbf-8aad-cc90d9e06074.jpeg"> &nbsp
 
 ---
 <h3>🔥 JasaIn-APIs</h3>
 
-&#8811; APIs Products    : https://github.com/Icappucino/JasaIn-APIs-Produk.git </br>
-&#8811; APIs Categories  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
-&#8811; Chatbot-JasaIn  : https://github.com/Icappucino/JasaIn-Project/tree/master/chatbot-jasain </br>
+&#8811; APIs `Products`    : https://github.com/Icappucino/JasaIn-APIs-Produk.git </br>
+&#8811; APIs `Categories`  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
+&#8811; APIs `Recommendations`  : https://github.com/TifenSeng/JasasIn-API-Tifen.git </br>
+&#8811; `Chatbot-JasaIn`  : https://github.com/Icappucino/JasaIn-Project/tree/master/chatbot-jasain </br>
 </p>
 
 ---
