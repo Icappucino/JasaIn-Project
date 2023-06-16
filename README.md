@@ -7,17 +7,17 @@ Due to technology advancement, the usage of electronic devices has increased dra
 ---
 <h3>📱 JasaIn App make With Kotlin</h3>
 <p style="display:flex">
-<img height="365em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/35a43687-fcdb-4779-97d4-638821a2d28a.jpeg"> &nbsp
-<img height="365em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/125f7436-c67a-4698-b1a5-0fcc5205c34f.jpeg"> &nbsp
-<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/985a0fbc-5f6e-4870-9364-5313bec73c38.jpeg"> &nbsp
-<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/54e153e0-8129-45d3-806f-7f988004fd7e.jpeg"> &nbsp
-<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/77d725a4-123a-46cc-982a-3830c200e067.jpeg"> &nbsp
+<img height="365em" width="200em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/35a43687-fcdb-4779-97d4-638821a2d28a.jpeg"> &nbsp
+<img height="365em" width="200em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/125f7436-c67a-4698-b1a5-0fcc5205c34f.jpeg"> &nbsp
+<img height="350em" width="200em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/985a0fbc-5f6e-4870-9364-5313bec73c38.jpeg"> &nbsp
+<img height="350em" width="200em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/54e153e0-8129-45d3-806f-7f988004fd7e.jpeg"> &nbsp
+<img height="350em" width="200em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/77d725a4-123a-46cc-982a-3830c200e067.jpeg"> &nbsp
 </p>
 
 ---
 <h3>☁️ Using Cloud Servers</h3>
-<img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/3b098198-1514-44dd-8db6-f6ea0ba0ba85.jpeg"> &nbsp
-<img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/3b8a3af6-2dd4-47eb-92c4-19054936dd9f.jpeg"> &nbsp
+<img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/3b098198-1514-44dd-8db6-f6ea0ba0ba85.jpeg"> </br>
+<img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/3b8a3af6-2dd4-47eb-92c4-19054936dd9f.jpeg">
 
 ---
 <h3>🖇 ChatBot Development with TensorFlow, NLTK and Google Collab</h3>
