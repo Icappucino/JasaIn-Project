@@ -30,8 +30,8 @@ Due to technology advancement, the usage of electronic devices has increased dra
 - `ntlk==3.8.1` </br>
 - `pickle==4.0` </br>
 
-<img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/blob/master/chatbot-jasain/chatbot-screenshot-collab.png">
-<img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/216fb5b2-ec5d-4bbf-8aad-cc90d9e06074.jpeg"> &nbsp
+<img height="350em" width="500em" src="https://github.com/Icappucino/JasaIn-Project/blob/master/chatbot-jasain/chatbot-screenshot-collab.png">
+<img height="350em" width="500em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/216fb5b2-ec5d-4bbf-8aad-cc90d9e06074.jpeg"> &nbsp
 
 ---
 <h3>📱 Library Used in Android Application</h3>
@@ -45,7 +45,9 @@ Due to technology advancement, the usage of electronic devices has increased dra
 ---
 <h3>🔥 JasaIn-APIs</h3>
 
-&#8811; APIs `Private`    : >>> https://github.com/Icappucino/JasaIn-APIs-Store-Info.git >>> https://github.com/Icappucino/JasaIn-APIs-User-Info.git </br>
+&#8811; APIs `Private`    : </br>
+&#8811; https://github.com/Icappucino/JasaIn-APIs-Store-Info.git </br> 
+&#8811; https://github.com/Icappucino/JasaIn-APIs-User-Info.git </br> </br>
 &#8811; APIs `Products`    : https://github.com/Icappucino/JasaIn-APIs-Produk.git </br>
 &#8811; APIs `Service`  : https://github.com/TifenSeng/JasasIn-API-Tifen.git </br>
 &#8811; `Chatbot-JasaIn`  : https://github.com/Icappucino/JasaIn-Project/tree/master/chatbot-jasain </br>
