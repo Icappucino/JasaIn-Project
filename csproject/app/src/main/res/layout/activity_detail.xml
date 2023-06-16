@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dashboard.activity.kategori.DetailActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layoutatas"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="5dp"
+        android:padding="10dp"
+        app:layout_constraintBottom_toTopOf="@+id/constraintLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/iv_toko"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pictoko" />
+
+        <TextView
+            android:id="@+id/tv_toko"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/toko_name"
+            android:textColor="@color/custom_text_primary"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/iv_toko"
+            app:layout_constraintTop_toBottomOf="@+id/iv_toko" />
+
+        <LinearLayout
+            android:id="@+id/layoutatas2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="@+id/iv_toko"
+            app:layout_constraintStart_toStartOf="@+id/iv_toko"
+            app:layout_constraintTop_toBottomOf="@+id/tv_toko">
+
+            <TextView
+                android:id="@+id/tv_rating"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/toko_rating"
+                android:textColor="@color/custom_text_primary" />
+
+            <TextView
+                android:id="@+id/tv_jadwal"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Senin-Minggu"
+                android:textColor="@color/custom_text_primary" />
+
+            <TextView
+                android:id="@+id/tv_review"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/toko_review"
+                android:textColor="@color/custom_secondary" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/batas1"
+            android:layout_width="wrap_content"
+            android:layout_height="2dp"
+            android:layout_margin="5dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/layoutatas2" />
+
+        <TextView
+            android:id="@+id/tv_desctoko"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Deskripsi"
+            android:textColor="@color/custom_text_primary"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/tv_toko"
+            app:layout_constraintTop_toBottomOf="@+id/batas1" />
+
+        <TextView
+            android:id="@+id/tv_isidesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Dengan berpengalaman bertahun-tahun di industri ini, kami telah membangun reputasi sebagai penyedia layanan yang handal dan profesional. Layanan kami mencakup perawatan rutin, perbaikan, instalasi, dan penggantian suku  cadang AC. Kami memiliki tim teknisi terlatih dan berpengalaman yang siap membantu Anda dengan segala masalah AC yang Anda hadapi."
+            app:layout_constraintEnd_toEndOf="@+id/layoutatas2"
+            app:layout_constraintStart_toStartOf="@+id/tv_desctoko"
+            app:layout_constraintTop_toBottomOf="@+id/tv_desctoko" />
+
+        <View
+            android:id="@+id/batas2"
+            android:layout_width="wrap_content"
+            android:layout_height="2dp"
+            android:layout_margin="5dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_isidesc" />
+
+        <TextView
+            android:id="@+id/tv_infotoko"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Alamat dan Kontak"
+            android:textColor="@color/custom_text_primary"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/tv_isidesc"
+            app:layout_constraintTop_toBottomOf="@+id/batas2" />
+
+        <TextView
+            android:id="@+id/tv_loctoko"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Jl. Kebangsaan No 20, Kebayoran, Jakarta Pusat, 182710"
+            app:layout_constraintEnd_toEndOf="@+id/tv_isidesc"
+            app:layout_constraintStart_toStartOf="@+id/tv_infotoko"
+            app:layout_constraintTop_toBottomOf="@+id/tv_infotoko" />
+
+        <TextView
+            android:id="@+id/tv_telptoko"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="Telp 082112837536"
+            app:layout_constraintEnd_toEndOf="@+id/tv_loctoko"
+            app:layout_constraintStart_toStartOf="@+id/tv_loctoko"
+            app:layout_constraintTop_toBottomOf="@+id/tv_loctoko" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/footer_background"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="16dp"
+            android:text="Mulai dari"
+            android:textColor="@color/custom_background"
+            android:textSize="16sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="8dp"
+            android:text="RP.25.000"
+            android:textColor="@color/custom_background"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/textView11"
+            app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+        <Button
+            android:id="@+id/btn_picktoko"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="24dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/bg_button"
+            android:text="Pesan Jasa"
+            android:textColor="@color/custom_primary"
+            android:textSize="10sp"
+            app:backgroundTint="@color/custom_background"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

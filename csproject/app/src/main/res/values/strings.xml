@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Jasain</string>
+    <string name="next_intro">Next</string>
+    <string name="start">Get Started</string>
+    <string name="toko_name">Nama Toko Service</string>
+    <string name="toko_rating">5/5</string>
+    <string name="toko_review">100 Reviews</string>
+    <string name="toko_jarak">300 Meter</string>
+    <string name="tgl_order">tanggal user order</string>
+    <string name="jasa_order">Jasa yang telah di order</string>
+    <string name="total_order">total biaya layanan</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="password_error">Your password must be at least 6 character length</string>
+
+
+<!--    deskripsitoko-->
+    <string name="dsc1">Menjadi tempat yang dapat Anda andalkan untuk semua kebutuhan teknologi modern Anda. Dari smartphone pintar hingga perangkat rumah cerdas, kami menawarkan produk-produk terkini dengan kualitas yang terjamin.</string>
+    <string name="dsc2">Temukan dunia elektronik yang lengkap dan terpercaya di toko kami. Kami menyediakan berbagai macam perangkat elektronik dari merek-merek ternama, mulai dari komputer dan laptop hingga kamera dan perangkat audio.</string>
+    <string name="dsc3">Merupakan pusat belanja elektronik yang menawarkan ragam gadget dan aksesori canggih. Dari smartwatch hingga drone, kami memiliki semua yang Anda butuhkan untuk memenuhi kebutuhan gaya hidup modern dan terhubung.</string>
+    <string name="dsc4">Disini, kami memahami kompleksitas kebutuhan teknologi Anda. Kami tidak hanya menyediakan produk elektronik terbaru, tetapi juga memberikan solusi lengkap dan dukungan teknis untuk memastikan pengalaman terbaik bagi pelanggan.</string>
+    <string name="dsc5">Toko elektronik terlengkap dengan beragam pilihan perangkat elektronik dan aksesori. Dari smartphone hingga perangkat audio visual, kami menyediakan produk dengan kualitas terbaik untuk memenuhi kebutuhan hiburan dan produktivitas Anda.</string>
+    <string name="dsc6">Toko elektronik yang menghadirkan teknologi terbaru dan revolusioner. Dari kecerdasan buatan hingga realitas virtual, kami menjelajahi inovasi terbaru untuk memenuhi kebutuhan Anda dalam era digital yang terus berkembang.</string>
+    <string name="dsc7">Toko kami menawarkan beragam produk digital dan elektronik dari berbagai kategori. Dari komputer dan aksesori hingga peralatan rumah tangga pintar, kami menghadirkan solusi lengkap dalam satu toko untuk memenuhi kebutuhan teknologi Anda.</string>
+
+<!--    alamattoko-->
+    <string name="loc1">Jl. Raya Tambun No. 123, Bekasi, Indonesia</string>
+    <string name="loc2">Jl. Harapan Baru No. 456, Bekasi, Indonesia</string>
+    <string name="loc3">Jl. Pahlawan Revolusi No. 789, Bekasi, Indonesia</string>
+    <string name="loc4">Jl. Cikarang Raya No. 234, Bekasi, Indonesia</string>
+    <string name="loc5">Jl. Tambun Selatan No. 567, Bekasi, Indonesia</string>
+    <string name="loc6">Jl. Mustika Jaya No. 890, Bekasi, Indonesia</string>
+    <string name="loc7">Jl. Raya Cikarang No. 1234, Bekasi, Indonesia</string>
+
+<!--    telpontoko-->
+    <string name="telp1">081234567890</string>
+    <string name="telp2">085678912345</string>
+    <string name="telp3">089012345678</string>
+    <string name="telp4">082345678901</string>
+    <string name="telp5">081234567890</string>
+    <string name="telp6">085678912345</string>
+    <string name="telp7">089012345678</string>
+
+</resources>
