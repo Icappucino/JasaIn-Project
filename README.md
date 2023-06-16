@@ -5,7 +5,7 @@ Due to technology advancement, the usage of electronic devices has increased dra
 </p>
 
 ---
-<h3>📱 JasaIn App make With Kotlin</h3>
+<h3>📱 JasaIn App make With Kotlin </h3>
 <p style="display:flex">
 <img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/35a43687-fcdb-4779-97d4-638821a2d28a.jpeg"> &nbsp
 <img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/125f7436-c67a-4698-b1a5-0fcc5205c34f.jpeg"> &nbsp
@@ -13,8 +13,8 @@ Due to technology advancement, the usage of electronic devices has increased dra
 
 ---
 <h3>☁️ Using Cloud Servers</h3>
-<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/3b098198-1514-44dd-8db6-f6ea0ba0ba85.jpeg"> &nbsp
-<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/3b8a3af6-2dd4-47eb-92c4-19054936dd9f.jpeg"> &nbsp
+<img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/3b098198-1514-44dd-8db6-f6ea0ba0ba85.jpeg"> &nbsp
+<img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/3b8a3af6-2dd4-47eb-92c4-19054936dd9f.jpeg"> &nbsp
 
 ---
 
@@ -27,7 +27,7 @@ Due to technology advancement, the usage of electronic devices has increased dra
 
 ---
 <h3> 👥 JasaIn Development Team </h3>
-<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/369a3e8c-3329-436d-b743-39bb3c4ed1a6.jpeg"> &nbsp
+<img height="400em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/369a3e8c-3329-436d-b743-39bb3c4ed1a6.jpeg"> &nbsp
 
 ---
 <h3> Our Community </h3>
