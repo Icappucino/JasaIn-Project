@@ -17,12 +17,15 @@ Due to technology advancement, the usage of electronic devices has increased dra
 <img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/3b8a3af6-2dd4-47eb-92c4-19054936dd9f.jpeg"> &nbsp
 
 ---
+<h3>🖇 ChatBot Development with TensorFlow, NLTK and Google Collab</h3>
+<img height="350em" width="700em" src="https://github.com/Icappucino/JasaIn-Project/blob/master/chatbot-jasain/chatbot-screenshot-collab.png"> &nbsp
 
+---
 <h3>🔥 JasaIn-APIs</h3>
 
 &#8811; APIs Products    : https://github.com/Icappucino/JasaIn-APIs-Produk.git </br>
 &#8811; APIs Categories  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
-&#8811; Chatbot-JasaIn  : https://github.com/verlixis/chatbot-jasain.git </br>
+&#8811; Chatbot-JasaIn  : https://github.com/Icappucino/JasaIn-Project/tree/master/chatbot-jasain </br>
 </p>
 
 ---
