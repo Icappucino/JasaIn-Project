@@ -13,19 +13,25 @@ Due to technology advancement, the usage of electronic devices has increased dra
 
 ---
 <h3>☁️ Using Cloud Servers</h3>
+<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/3b098198-1514-44dd-8db6-f6ea0ba0ba85.jpeg"> &nbsp
+<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/3b8a3af6-2dd4-47eb-92c4-19054936dd9f.jpeg"> &nbsp
 
 ---
 
 <h3>🔥 JasaIn-APIs</h3>
-<p>
+
 &#8811; APIs Products    : https://github.com/Icappucino/JasaIn-APIs-Produk.git </br>
 &#8811; APIs Categories  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
-&#8811; APIs Recommendations  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
-&#8811; APIs Orders  : https://github.com/Icappucino/JasaIn-API-Category.git </br>
+&#8811; Chatbot-JasaIn  : https://github.com/verlixis/chatbot-jasain.git </br>
 </p>
 
 ---
 <h3> 👥 JasaIn Development Team </h3>
+<img height="350em" src="https://github.com/Icappucino/JasaIn-Project/assets/93023359/369a3e8c-3329-436d-b743-39bb3c4ed1a6.jpeg"> &nbsp
 
 ---
 <h3> Our Community </h3>
+
+<a href="https://discord.gg/DsqU8QxzKs" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
