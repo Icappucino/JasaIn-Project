@@ -25,5 +25,7 @@ Due to technology advancement, the usage of electronic devices has increased dra
 </p>
 
 ---
+<h3> 👥 JasaIn Development Team </h3>
 
+---
 <h3> Our Community </h3>
